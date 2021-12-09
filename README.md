@@ -22,5 +22,7 @@
   <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div><br/><br/>
 
-### Repositórios:
+### Projetos:
 
+- [Projeto CookMaster](https://github.com/tryber/sd-012-cookmaster/tree/ramonpaschoal-sd-012-cookmaster)
+- [Projeto Store Manager](https://github.com/tryber/sd-012-store-manager/tree/ramon-paschoal-sd-012-store-manager)
