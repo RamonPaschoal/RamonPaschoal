@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ramon Paschoal 🙋
+### Olá! Eu sou o Ramon Paschoal 🙋. E estou buscando me tornar um desenvolvedor web
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonpaschoal/)
 
@@ -22,7 +22,7 @@
   <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div><br/><br/>
 
-### Projetos:
+### Projetos Back-end:
 
 - [Projeto CookMaster](https://github.com/tryber/sd-012-cookmaster/tree/ramonpaschoal-sd-012-cookmaster)
 - [Projeto Store Manager](https://github.com/tryber/sd-012-store-manager/tree/ramon-paschoal-sd-012-store-manager)
