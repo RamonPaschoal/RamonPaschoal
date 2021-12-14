@@ -32,6 +32,10 @@ Nesse período, já adquiri experiência em front-end e back-end. Tendo conhecim
   <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div><br/><br/>
 
+### Projetos Frond-end:
+- [Projeto Recipes-App](https://github.com/tryber/sd-012-project-recipes-app/tree/main-group-30/src)
+
+
 ### Projetos Back-end:
 
 - [Projeto CookMaster](https://github.com/tryber/sd-012-cookmaster/tree/ramonpaschoal-sd-012-cookmaster)
