@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ramon Paschoal 🙋. E estou buscando me tornar um desenvolvedor web
 
-### Um pouco mais sobre mim:
+### Um pouco sobre mim:
 
 Formado em Ciências Econômicas com experiência de 10 anos no mercado de investimento.
 
