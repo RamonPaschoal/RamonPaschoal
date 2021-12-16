@@ -41,7 +41,7 @@ Nesse período, já adquiri experiência em front-end e back-end. Tendo conhecim
 - [Projeto CookMaster](https://github.com/tryber/sd-012-cookmaster/tree/ramonpaschoal-sd-012-cookmaster)
 - [Projeto Store Manager](https://github.com/tryber/sd-012-store-manager/tree/ramon-paschoal-sd-012-store-manager)
 
-### Projeto Estudos Banco de dados:
+### Projeto de Banco de dados:
 
 - [Projeto MongoDB-Aggregations](https://github.com/tryber/sd-012-mongodb-aggregations/tree/ramon-paschoal-mongodb-aggregations)
 - [Projeto MySQL One-For-All](https://github.com/tryber/sd-012-mysql-one-for-all/tree/ramonpaschoal-mysql-one-for-all)
