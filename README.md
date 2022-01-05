@@ -34,6 +34,7 @@ Nesse período, já adquiri experiência em front-end e back-end. Tendo conhecim
 
 ### Projetos Frond-end:
 - [Projeto Recipes-App](https://github.com/tryber/sd-012-project-recipes-app/tree/main-group-30/src)
+- [Projeto Todo-list-App](https://github.com/RamonPaschoal/Projetos/tree/master/ToDoList-React/react-todo-app)
 
 
 ### Projetos Back-end:
